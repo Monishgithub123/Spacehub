@@ -1,62 +1,50 @@
-🏠 Property Listing Application
-A sleek, modern Single Page Web Application (SPA) built with the MERN stack (MongoDB, Express.js, React.js, Node.js), Tailwind CSS, and Vite for managing property listings.
+# 🏠 **Property Listing Application**  
 
-✨ Key Features
-Add Property: Add new property details such as name, location, price, description, and images.
-Edit Property: Update existing property details with ease.
-Delete Property: Remove properties you no longer need in the list.
-Property Listings: View all properties in a responsive, user-friendly interface.
-Search and Filters: Quickly find properties with features like:
-Search Bar: Search properties by name or location.
-Filters: Filter by location, price range, and property type.
-Dependent Filters: Dynamically updates filter options based on selections.
-🌟 Tech Stack
-Frontend: React.js (with Vite for blazing-fast builds)
-Backend: Node.js, Express.js
-Database: MongoDB
-Styling: Tailwind CSS
-🚀 Getting Started
-Prerequisites
-Install Node.js and npm
-Install and run MongoDB
-Installation
-Clone the repository:
+Manage property listings seamlessly with our modern Single Page Web Application (SPA). Built with the **MERN Stack**, styled with **Tailwind CSS**, and powered by **Vite**, this application delivers an intuitive and powerful experience for adding, editing, deleting, and filtering properties.  
 
-bash
-Copy code
-git clone https://github.com/yourusername/property-listing-app.git  
-Navigate to the project directory and install dependencies:
+---
 
-bash
-Copy code
-cd property-listing-app  
-cd client && npm install  
-cd ../server && npm install  
-Start the MongoDB server:
+## 🌟 **Key Features**  
 
-bash
-Copy code
-mongod  
-Run the backend server:
+### 🔧 **Property Management**  
+- **Add Property**: Input property details like name, location, price, description, and upload images.  
+- **Edit Property**: Modify property details effortlessly.  
+- **Delete Property**: Remove outdated or unnecessary property listings.  
 
-bash
-Copy code
-cd server  
-npm start  
-Run the frontend development server:
+### 🏘️ **Property Listings**  
+- **Search Bar**: Quickly find properties by name or location.  
+- **Dynamic Filters**:  
+  - Filter properties by **location**, **price range**, or **type** (e.g., residential, commercial).  
+  - Dependent filters ensure options dynamically update based on your selections.  
 
-bash
-Copy code
-cd client  
-npm run dev  
-Open your browser and navigate to:
+### 💡 **User Experience Highlights**  
+- **Responsive Design**: Optimized for all screen sizes using **Tailwind CSS**.  
+- **Performance Optimized**: Powered by **Vite** for ultra-fast load times.  
 
-arduino
-Copy code
-http://localhost:5173  
-📸 Screenshots
-🖊️ Add Property
+---
 
-🏘️ Property Listings
+## 🛠️ **Tech Stack**  
 
-🔍 Filters and Search
+### **Frontend**  
+- ⚛️ React.js (with Vite for builds)  
+- 🎨 Tailwind CSS for styling  
+
+### **Backend**  
+- 🟢 Node.js & Express.js  
+
+### **Database**  
+- 🛢️ MongoDB  
+
+---
+
+## 🚀 **Setup Guide**  
+
+### 📋 **Prerequisites**  
+- Install **Node.js** and **npm**  
+- Install and start **MongoDB**  
+
+### 🛠️ **Installation Steps**  
+
+1. Clone the repository:  
+   ```bash  
+   git clone https://github.com/yourusername/property-listing-app.git  
