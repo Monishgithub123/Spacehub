@@ -46,5 +46,7 @@ Manage property listings seamlessly with our modern Single Page Web Application 
 ### 🛠️ **Installation Steps**  
 
 1. Clone the repository:  
-   ```bash  https://github.com/Monishgithub123/Spacehub.git
+   ```bash  
+   git clone https://github.com/Monishgithub123/Spacehub.git  
+
 
